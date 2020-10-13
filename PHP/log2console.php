@@ -6,6 +6,5 @@ function console_log($output, $with_script_tags = true) {
     }
     echo $js_code;
 }
-
-<!-- Use this anywhere in the php code to dump a var to the console  -->
 console_log();
+<!-- Use this anywhere in the php code to dump a var to the console  -->
